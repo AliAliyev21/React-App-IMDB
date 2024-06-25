@@ -1,0 +1,22 @@
+.MovieCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2rem;
+  width: 200px;
+  color: aliceblue;
+}
+
+h2 {
+  color: black;
+}
+
+.cinema-image img {
+  width: 200px;
+  height: 300px;
+}
+
+.cinema-details {
+  text-align: left;
+  margin-top: 1rem;
+}

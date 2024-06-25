@@ -1,0 +1,26 @@
+.FeedbackSection {
+  background-color: slategray;
+  padding: 2rem;
+  color: white;
+  max-width: 100%;
+}
+
+.FeedbackSection h2 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.feedback-item {
+  background-color: darkslategray;
+  padding: 1.5rem;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
+.feedback-item p {
+  margin: 0.5rem 0;
+}
+
+.feedback-item strong {
+  color: lightgray;
+}
